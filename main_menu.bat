@@ -28,7 +28,7 @@ exit /b
 :: -------------------------------
 :: Настройки
 :: -------------------------------
-set "REPO_URL=https://github.com/KOTvZephire/geely-docs/archive/refs/heads/main.zip"
+set "REPO_URL=https://github.com/KOTvZephire/geely-docs/archive/refs/heads/dev-kot.zip"
 set "PLINK_URL=https://the.earth.li/~sgtatham/putty/latest/w64/plink.exe"
 set "ADB_URL=https://dl.google.com/android/repository/platform-tools-latest-windows.zip"
 set "BIN_DIR=%~dp0bin"
